@@ -195,5 +195,8 @@ html.cello body {
 
 html.title body {
   background-image: none; }
-  html.title body h1, html.title body h2, html.title body h3, html.title body h4, html.title body h5, html.title body h6 {
+  html.title body h1, html.title body h2, html.title body h3, html.title body h4, html.title body h5, html.title body h6, html.title body p {
     color: white; }
+
+.reveal ul.courses {
+  list-style-type: none; }
